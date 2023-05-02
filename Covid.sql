@@ -160,7 +160,7 @@ FROM PercentPopulationVaccinated;
 
 
 
--- CREATING VIEW TO STORE TO STORE DATA FOR LATER VISUALISATIONS 
+-- CREATING VIEW TO STORE DATA FOR LATER VISUALISATIONS 
 -- THIS VIEW shows % of population that is vaccinated 
 
 Create View PercentagePopulationVaccinated as 
